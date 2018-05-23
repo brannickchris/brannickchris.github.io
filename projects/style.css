@@ -3,3 +3,18 @@ body {
     background-repeat: no-repeat;
     width: 100%;
 }
+
+figure {
+    float: right;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border:  black solid;
+    border-width: 5px 5px 10px 10px;
+    width: 500px;
+    margin: auto;
+    background-color: lightgray;
+    
+
+}
